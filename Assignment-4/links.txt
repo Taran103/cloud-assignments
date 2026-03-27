@@ -1,0 +1,5 @@
+VM Website:
+http://20.244.5.145/index.html
+
+Azure Storage Website:
+https://taranstorage123.z29.web.core.windows.net/
